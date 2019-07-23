@@ -4,70 +4,17 @@
 
 **产品价格**
 
-<table>
-<thead>
-<tr class="header">
-<th>归档存储</th>
-<th></th>
-<th>备注</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>存储空间</td>
-<td>0.002元/GB/天</td>
-<td>根据用户每天的使用量<br />
-按天收费，第二天统计<br />
-前一天用量和费用</td>
-</tr>
-<tr class="even">
-<td>数据激活</td>
-<td>0.06元/GB/次</td>
-<td>:::</td>
-</tr>
-<tr class="odd">
-<td>数据删除</td>
-<td>未满15日按0.06元/GB，超过15日免费</td>
-<td>:::</td>
-</tr>
-<tr class="even">
-<td>API请求</td>
-<td>0.01元/万次</td>
-<td>:::</td>
-</tr>
-<tr class="odd">
-<td>数据传入</td>
-<td>免费</td>
-<td>:::</td>
-</tr>
-<tr class="even">
-<td>下载流量<br />
-（阶梯价）</td>
-<td>0 - 1TB， 0.45元/GB</td>
-<td>:::</td>
-</tr>
-<tr class="odd">
-<td>:::</td>
-<td>1 - 10TB， 0.40元/GB</td>
-<td>:::</td>
-</tr>
-<tr class="even">
-<td>:::</td>
-<td>10 - 50TB， 0.36元/GB</td>
-<td>:::</td>
-</tr>
-<tr class="odd">
-<td>:::</td>
-<td>50 - 100TB， 0.32元/GB</td>
-<td>:::</td>
-</tr>
-<tr class="even">
-<td>:::</td>
-<td>100TB以上， 0.28元/GB</td>
-<td>:::</td>
-</tr>
-</tbody>
-</table>
+^    归档存储         |^    备注                        ^
+| 存储空间          | 0.002元/GB/天             | 根据用户每天的使用量\\ 按天收费，第二天统计\\ 前一天用量和费用  |
+| 数据激活          | 0.06元/GB                | :::                                 |
+| 数据删除          | 未满15日按0.06元/GB，超过15日免费| :::                                 |
+| API请求         | 0.01元/万次                | :::                                 |
+| 数据传入          | 免费                      | :::                                 |
+| 下载流量\\ （阶梯价）  | 0 - 1TB， 0.45元/GB       | :::                                 |
+| :::           | 1 - 10TB， 0.40元/GB      | :::                                 |
+| :::           | 10 - 50TB， 0.36元/GB     | :::                                 |
+| :::           | 50 - 100TB， 0.32元/GB    | :::                                 |
+| :::           | 100TB以上， 0.28元/GB       | :::                                 |
 
 注：
 UArchive空间区分地域(北京、广州)，各地域价格相同。
