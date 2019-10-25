@@ -4,4 +4,4 @@
 
 **目录**
 
-{{indexmenu>:storage_cdn:uarchive#1 | nsort dsort msort}}
+

@@ -1,6 +1,6 @@
 # SDK
 
-{{indexmenu_n>60}}
+
 
 本文以Python SDK为例，介绍如何使用SDK进行空间管理与文件管理。本文建议用户使用Python 2。
 
