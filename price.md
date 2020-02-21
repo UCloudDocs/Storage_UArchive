@@ -1,5 +1,6 @@
 # 计费
-
+因产品升级，Uarchive将暂停维护。  
+推荐使用更便宜的 ufile归档型存储：[ufile价格表](https://docs.ucloud.cn/storage_cdn/ufile/bill/new)
 
 
 **产品价格**
