@@ -1,7 +1,7 @@
 
 # 介绍(Introduction)
 
-推荐：UFile 已经支持归档存储，可以直接使用UFile 来实现文件归档：[UFile](https://docs.ucloud.cn/storage_cdn/ufile/bill/new)
+推荐：UFile 已经支持归档存储，可以直接使用UFile 来实现文件归档：[UFile](https://docs.ucloud.cn/ufile/bill/new)
 
 Uarchive是UCLOUD公司的归档存储产品，你可以把本地的任意文件，压缩包，或者文件夹上传到Uarchive。  
 稍后在您需要时可以从Uarchive下载指定的文件。Uarchive和Ufile不同，它无法在UCLOUD官方控制台上进行文件的上传，下载动作。
