@@ -7,5 +7,5 @@
 * [控制台快速上手](/uarchive/guide)
 * [计费](/uarchive/price)
 * [SDK](/uarchive/sdk)
-* [Uarchive工具使用说明](/uarchive/quick)
+* [UArchive 工具使用说明](/uarchive/quick)
             
