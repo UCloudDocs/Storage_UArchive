@@ -2,9 +2,9 @@
 # 介绍(Introduction)
 
 **因产品升级，UArchive 将暂停维护。**
-请使用 UFile 归档类型，以获取更优惠更可靠的归档存储服务：[UFile 产品价格](https://docs.ucloud.cn/ufile/bill/new)
+请使用 US3 对象存储归档类型，以获取更优惠更可靠的归档存储服务：[US3 产品价格](https://docs.ucloud.cn/ufile/bill/new)
 
-Uarchive是UCLOUD公司的归档存储产品，你可以把本地的任意文件，压缩包，或者文件夹上传到Uarchive。  
+UArchive是UCLOUD公司的归档存储产品，你可以把本地的任意文件，压缩包，或者文件夹上传到Uarchive。  
 稍后在您需要时可以从Uarchive下载指定的文件。Uarchive和Ufile不同，它无法在UCLOUD官方控制台上进行文件的上传，下载动作。
 只能依赖于uarchivemgr工具进行相关操作。你可以从下面这个地址获取这个工具。
 

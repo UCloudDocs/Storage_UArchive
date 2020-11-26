@@ -1,7 +1,7 @@
 # 计费
 
 **因产品升级，UArchive 将暂停维护。**
-请使用 UFile 归档类型，以获取更优惠更可靠的归档存储服务：[UFile 产品价格](https://docs.ucloud.cn/ufile/bill/new)
+请使用 US3 对象存储归档类型，以获取更优惠更可靠的归档存储服务：[US3 产品价格](https://docs.ucloud.cn/ufile/bill/new)
 
 
 ## 产品价格
